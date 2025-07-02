@@ -1,14 +1,12 @@
-About Me:
+### 👋 ¡Hola! Soy **Joel Font**
 
+- 🛠️ **DevOps & Cloud-Native Coach** — reduzco el MTTR de los equipos hasta un 70 % con Kubernetes, observabilidad y automatización CI/CD.  
+- 🚀 **Ahora mismo** profundizando en **TypeScript + Next.js** y afinando mis chops en **Go** para microservicios de alto rendimiento.  
+- 📖 Aprendizaje continuo: IA para DevOps, GitOps y FinOps.  
+- ✉️ **Contacto rápido:** font.joel@gmail.com  
+- 💡 **Pregúntame** lo que quieras sobre DevOps, cloud; siempre respondo.
 
-🌱 I’m currently learning Web Development and other programming languages
+---
 
-📫 You can contact me at: font.joel@gmail.com
-
-📖 I am always looking to learn new technologies and expand my knowledge.
-
-👁️ You can take a look at some of my projects, most of them web related, with React and Flask.
-
-❓ Feel free to ask whatever you want about me or any of my projects.
-
-One of my projects: https://ruta-3bs.herokuapp.com/
+> “Automatiza lo repetible. Escala lo valioso.”  
+> — Yo mismo, cada vez que rompo producción 😅
